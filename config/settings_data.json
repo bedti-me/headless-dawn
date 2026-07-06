@@ -120,7 +120,7 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
-    "storefront_hostname": "dev-shop.bedtime-web.pages.dev/shop",
+    "storefront_hostname": "b.edti.me",
     "integrate_with_customer_accounts": false,
     "sections": {
       "main-password-header": {
