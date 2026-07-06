@@ -121,6 +121,7 @@
     "show_cart_note": false,
     "cart_drawer_collection": "",
     "storefront_hostname": "b.edti.me",
+    "custom_redirects": "tape/ > b.edti.me/projects/hardware/tape/",
     "integrate_with_customer_accounts": false,
     "sections": {
       "main-password-header": {
